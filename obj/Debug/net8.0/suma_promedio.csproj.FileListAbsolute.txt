@@ -1,0 +1,14 @@
+/home/luis/Documentos/CSharp/suma_promedio/bin/Debug/net8.0/suma_promedio
+/home/luis/Documentos/CSharp/suma_promedio/bin/Debug/net8.0/suma_promedio.deps.json
+/home/luis/Documentos/CSharp/suma_promedio/bin/Debug/net8.0/suma_promedio.runtimeconfig.json
+/home/luis/Documentos/CSharp/suma_promedio/bin/Debug/net8.0/suma_promedio.dll
+/home/luis/Documentos/CSharp/suma_promedio/bin/Debug/net8.0/suma_promedio.pdb
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/suma_promedio.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/suma_promedio.AssemblyInfoInputs.cache
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/suma_promedio.AssemblyInfo.cs
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/suma_promedio.csproj.CoreCompileInputs.cache
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/suma_promedio.dll
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/refint/suma_promedio.dll
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/suma_promedio.pdb
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/suma_promedio.genruntimeconfig.cache
+/home/luis/Documentos/CSharp/suma_promedio/obj/Debug/net8.0/ref/suma_promedio.dll
